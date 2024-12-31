@@ -1,0 +1,92 @@
+[
+    {
+        "service_req_no": "SR554321",
+        "short_description": "Server provisioning delay",
+        "current_status": "Open",
+        "long_description": "Request to provision a new virtual machine for development purposes is delayed due to resource constraints.",
+        "sr_open_date": "2024-12-20",
+        "request_notes": "Urgent request for project deployment.",
+        "sr_close_date": ""
+    },
+    {
+        "service_req_no": "SR554322",
+        "short_description": "Network latency issue",
+        "current_status": "InProgress",
+        "long_description": "High latency observed between the application server and the database in the cloud environment.",
+        "sr_open_date": "2024-12-18",
+        "request_notes": "Investigating routing configurations.",
+        "sr_close_date": ""
+    },
+    {
+        "service_req_no": "SR554323",
+        "short_description": "Backup restoration needed",
+        "current_status": "Pending",
+        "long_description": "Request to restore data from a backup taken last week for compliance audit purposes.",
+        "sr_open_date": "2024-12-15",
+        "request_notes": "Awaiting customer approval for the restoration point.",
+        "sr_close_date": ""
+    },
+    {
+        "service_req_no": "SR554324",
+        "short_description": "Storage capacity upgrade",
+        "current_status": "Closed",
+        "long_description": "Additional storage capacity was provisioned to the cloud environment for increased data needs.",
+        "sr_open_date": "2024-12-10",
+        "request_notes": "2024-12-30 13:21:57 - Update Notes",
+        "sr_close_date": "2024-12-12"
+    },
+    {
+        "service_req_no": "SR554325",
+        "short_description": "Firewall rule update",
+        "current_status": "InProgress",
+        "long_description": "Request to update firewall rules to allow traffic from a new IP range for a third-party integration.",
+        "sr_open_date": "2024-12-22",
+        "request_notes": "Pending security team validation.",
+        "sr_close_date": ""
+    },
+    {
+        "service_req_no": "SR554326",
+        "short_description": "Load balancer configuration",
+        "current_status": "Pending",
+        "long_description": "Configuration changes needed on the load balancer to distribute traffic across newly added instances.",
+        "sr_open_date": "2024-12-14",
+        "request_notes": "Awaiting input from the application team.",
+        "sr_close_date": ""
+    },
+    {
+        "service_req_no": "SR554327",
+        "short_description": "Certificate renewal issue",
+        "current_status": "Open",
+        "long_description": "SSL certificate renewal for the production environment failed, causing service disruptions.",
+        "sr_open_date": "2024-12-25",
+        "request_notes": "High-priority issue.",
+        "sr_close_date": ""
+    },
+    {
+        "service_req_no": "SR554328",
+        "short_description": "Cloud monitoring setup",
+        "current_status": "Closed",
+        "long_description": "Monitoring tools were set up to track performance and availability of cloud-hosted services.",
+        "sr_open_date": "2024-12-01",
+        "request_notes": "Implemented as per specifications.",
+        "sr_close_date": "2024-12-05"
+    },
+    {
+        "service_req_no": "SR554329",
+        "short_description": "Access issue for VM",
+        "current_status": "InProgress",
+        "long_description": "Access credentials for a virtual machine are not functioning, blocking the development team.",
+        "sr_open_date": "2024-12-23",
+        "request_notes": "Credentials reset in progress.",
+        "sr_close_date": ""
+    },
+    {
+        "service_req_no": "SR554310",
+        "short_description": "Kubernetes node failure",
+        "current_status": "Open",
+        "long_description": "One of the Kubernetes nodes in the cluster has failed, affecting application availability.",
+        "sr_open_date": "2024-12-26",
+        "request_notes": "2024-12-30 16:25:42 - MSG SQMS Application",
+        "sr_close_date": ""
+    }
+]
